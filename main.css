@@ -1,0 +1,24 @@
+body {
+    background-color: #16023d;
+    background-image: url(images/night-sky.jpg);
+    background-position: center 40px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #f1f1f1;
+    font-family: Helvetica, “times new roman”, sans-serif;
+    text-align: center;
+
+}
+.nav {
+    display: inline;
+    padding-right: 20px;
+    size: auto
+}
+h1 {
+    font-size: 60px;
+    margin-bottom: 0;
+    text-shadow: 2px 2px #00000b
+}
+p {
+    text-shadow: 2px 2px #00000b
+}
